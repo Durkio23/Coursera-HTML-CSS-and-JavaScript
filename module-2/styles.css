@@ -17,7 +17,7 @@ h1 {
   margin-bottom: 15px;
   text-align: center;
   color: black;
-  font-size: 35px;
+  font-size: 25px;
 }
 
 
@@ -30,22 +30,22 @@ h1 {
 .content-name{
   overflow: none;
   text-align: center;
-  border: 8px solid black;
+  border: 3px solid black;
   width: 100px;
   height: 40px;
   padding: 5px;
   float: right;
-  margin-right: 33px;
+  margin-right: 6%;
   margin-top: 0px;
   font-weight: bold;
   position: relative;
 }
 
 .content{
-  border: 10px solid black;
+  border: 3px solid black;
   width: 90%;
   height: auto;
-  margin: 2.5%;
+  margin:4%;
   color: black
   font-size: 25px;
   padding: 2%;
@@ -59,11 +59,10 @@ h1 {
 
 .name2{
   color: white;
-  background-color: #ef9797;
+  background-color: #ed645c;
 }
 .name3{
-	color:#4e2b13;
-  background-color: #cdcd57;
+  background-color: #d5bb8d;
 }
 
 @media (min-width: 992px) {
@@ -85,7 +84,7 @@ h1 {
     width: 100%;
   }
   .name3{
-    margin-right: 65px;
+    margin-right: 6%;
     width: 100px;
   }
 }
@@ -95,7 +94,10 @@ h1 {
   	float: left;
     width: 100%;
   }
+  .content{
+    margin:2%;
+  }
   .content-name{
-     margin-right: 8%;
+    margin-right: 8%;
   }
 }
