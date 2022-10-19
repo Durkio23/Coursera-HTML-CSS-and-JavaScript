@@ -17,7 +17,7 @@ h1 {
   margin-bottom: 15px;
   text-align: center;
   color: black;
-  font-size: 25px;
+  font-size: 35px;
 }
 
 
@@ -35,7 +35,7 @@ h1 {
   height: 40px;
   padding: 5px;
   float: right;
-  margin-right: 36px;
+  margin-right: 34px;
   margin-top: 0px;
   font-weight: bold;
   position: relative;
@@ -59,10 +59,11 @@ h1 {
 
 .name2{
   color: white;
-  background-color: #ed645c;
+  background-color: #ef9797;
 }
 .name3{
-  background-color: #FFFF00;
+	color:#4e2b13;
+  background-color: #cdcd57;
 }
 
 @media (min-width: 992px) {
