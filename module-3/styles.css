@@ -1,4 +1,6 @@
-
+body{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
 .container-fluid{
 	margin: 0;
 	padding: 0;
@@ -10,6 +12,7 @@
 }
 
 .navbar-brand{
+	font-weight:bold;
   font-size: 35px;
   color: white;
   padding-left: 25px;
@@ -44,8 +47,8 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
-  font-size: 50px;
+  color: #262626;
+  font-size: 35px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
 }
@@ -77,7 +80,7 @@ li{
 }
 
 .content-box{
-	margin: 20px;
+	margin: 10px;
 	width: auto;
 	height: auto;
 	color: black;
